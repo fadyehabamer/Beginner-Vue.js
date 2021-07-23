@@ -4,7 +4,7 @@
 
 | nom.  | name  |  link  |
 |---|---|---|
-| 01  |   |   |
+| 01  | installation  | https://github.com/fadyehabamer/Vue.js/tree/main/01-installation  |
 | 02 |   |   |
 | 03  |   |   |
 | 04  |   |   |

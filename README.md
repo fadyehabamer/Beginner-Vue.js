@@ -7,8 +7,9 @@
 | 01  | installation  | https://github.com/fadyehabamer/Vue.js/tree/main/01-installation  |
 | 02 | create vue instance  | https://github.com/fadyehabamer/Vue.js/tree/main/02-create%20vue%20instance  |
 | 03  | template in vue  | https://github.com/fadyehabamer/Vue.js/tree/main/04-template%20in%20vue  |
-| 04  |   |   |
-| 05  |   |   |
+| 04  | Data Binding  | https://github.com/fadyehabamer/Vue.js/tree/main/05-Data%20Binding  |
+| 05  | event handling  | https://github.com/fadyehabamer/Vue.js/tree/main/06-event%20handling  |
+<!-- |   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -16,5 +17,4 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
+|   |   |   | -->

@@ -10,7 +10,7 @@
 | 04  | Data Binding  | https://github.com/fadyehabamer/Vue.js/tree/main/05-Data%20Binding  |
 | 05  | event handling  | https://github.com/fadyehabamer/Vue.js/tree/main/06-event%20handling  
 | 06 | event object  |  https://github.com/fadyehabamer/Vue.js/tree/main/07-event%20object |    |   |   |   |
-| 07  | prevent modifier usage  |   |
+| 07  | prevent modifier usage  | https://github.com/fadyehabamer/Vue.js/tree/main/08-prevent%20modifier%20usage |
 |   |   |   |
 |   |   |   |
 |   |   |   |

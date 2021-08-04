@@ -13,7 +13,8 @@
 | 07  | prevent modifier usage  | https://github.com/fadyehabamer/Vue.js/tree/main/08-prevent%20modifier%20usage |
 | 08  | stop modifier usage  | https://github.com/fadyehabamer/Vue.js/tree/main/09-%20stop%20modifier%20usage  |
 | 09  | self , capture , once modifiers  | https://github.com/fadyehabamer/Vue.js/tree/main/010-self%20%2C%20capture%20%2C%20once%20modifiers  |
-| 10  | keyboard events , modifiers  |   |
-|   |   |   |
+| 10  | keyboard events , modifiers  | https://github.com/fadyehabamer/Vue.js/tree/main/011-keyboard%20events%20%2C%20modifiers  |
+<!-- |   |   |   |
 |   |   |   |
 |   |   |   |  
+ -->

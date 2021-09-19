@@ -18,7 +18,7 @@
 | 12 | v-bind , v-on shorthands  |
 | 13  | v-once   |
 | 14 | 2 way data binding |
-|||
+| 15| computed attributes |
 |||
 |||
 |||

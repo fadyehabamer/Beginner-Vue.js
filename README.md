@@ -20,7 +20,7 @@
 | 14 | 2 way data binding |
 | 15 | computed attributes |
 | 16 | watch |
-|||
+| 17 |class binding usage |
 |||
 |||
 |||

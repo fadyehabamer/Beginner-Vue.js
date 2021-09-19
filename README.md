@@ -15,5 +15,5 @@
 | 09  | self , capture , once modifiers  | https://github.com/fadyehabamer/Vue.js/tree/main/010-self%20%2C%20capture%20%2C%20once%20modifiers  |
 | 10  | keyboard events , modifiers  | https://github.com/fadyehabamer/Vue.js/tree/main/011-keyboard%20events%20%2C%20modifiers  |
 | 11  |  create keyboard shortcuts | https://github.com/fadyehabamer/Vue.js/tree/main/_12%20create%20keyboard%20shortcuts  |
-|   |   |   |
+|  12 | v-bind , v-on shorthands  | https://github.com/fadyehabamer/Vue.js/tree/main/_13%20v-bind%20%2C%20v-on%20shorthands  |
 |   |   |   |  

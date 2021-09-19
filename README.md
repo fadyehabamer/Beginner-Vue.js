@@ -21,6 +21,6 @@
 | 15 | computed attributes |
 | 16 | watch |
 | 17 |class binding usage |
-|||
+| 18 | class binding with array|
 |||
 |||

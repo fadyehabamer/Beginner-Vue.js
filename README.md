@@ -15,5 +15,12 @@
 | 09  | self , capture , once modifiers  |
 | 10  | keyboard events , modifiers  | 
 | 11  |  create keyboard shortcuts|
-|  12 | v-bind , v-on shorthands  |
+| 12 | v-bind , v-on shorthands  |
 | 13  | v-once   |
+| 14 | 2 way data binding |
+|||
+|||
+|||
+|||
+|||
+|||

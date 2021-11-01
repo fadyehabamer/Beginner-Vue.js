@@ -26,7 +26,7 @@
 | 20| text directive|
 | 21| v-if|
 | 22| grouping v-if with template tag|
-| 23||
+| 23| v-show|
 | 24||
 | 25||
 | 26||

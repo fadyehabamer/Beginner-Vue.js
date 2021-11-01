@@ -33,7 +33,7 @@
 | 27| nested loops|
 | 28| v-for&vue.set|
 | 29|  v-for key|
-| 30||
+| 30| filtering using v-for|
 
 
 

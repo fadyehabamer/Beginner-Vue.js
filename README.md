@@ -1,8 +1,13 @@
 <p align="center">
-<h1> Vue.js </h1>
-<h3> Detailed code for using Vue.js "without CLI" </h3>
+  <img src="logo.png"
 </p>
+  
+<h1 align="center"> Vue.js </h1>
+<h3 align="center"> Detailed code for using Vue.js "without CLI" </h3>
+
+
 <hr>
+
 #### Table of content 
 
 | nom.  | name  |

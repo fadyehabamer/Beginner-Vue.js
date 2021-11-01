@@ -30,7 +30,7 @@
 | 24| looping with v-for|
 | 25| v-for & v-if|
 | 26| v-for with  objects|
-| 27||
+| 27| nested loops|
 | 28||
 | 29||
 | 30||

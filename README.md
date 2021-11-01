@@ -1,5 +1,5 @@
 # Vue.js
-> Detailed code for using Vue.js
+> Detailed code for using Vue.js "without CLI"
 #### Table of content 
 
 | nom.  | name  |

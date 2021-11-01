@@ -28,7 +28,7 @@
 | 22| grouping v-if with template tag|
 | 23| v-show|
 | 24| looping with v-for|
-| 25||
+| 25| v-for & v-if|
 | 26||
 | 27||
 | 28||

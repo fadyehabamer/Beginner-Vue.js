@@ -31,7 +31,7 @@
 | 25| v-for & v-if|
 | 26| v-for with  objects|
 | 27| nested loops|
-| 28||
+| 28| v-for&vue.set|
 | 29||
 | 30||
 

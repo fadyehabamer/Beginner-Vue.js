@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png">
+  <img src="Logo.png">
 </p>
   
 <h1 align="center"> Vue.js </h1>

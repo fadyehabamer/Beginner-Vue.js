@@ -32,7 +32,7 @@
 | 26| v-for with  objects|
 | 27| nested loops|
 | 28| v-for&vue.set|
-| 29||
+| 29|  v-for key|
 | 30||
 
 

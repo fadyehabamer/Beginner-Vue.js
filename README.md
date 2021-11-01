@@ -1,5 +1,8 @@
-# Vue.js
-> Detailed code for using Vue.js "without CLI"
+<p align="center">
+<h1> Vue.js </h1>
+<h3> Detailed code for using Vue.js "without CLI" </h3>
+</p>
+<hr>
 #### Table of content 
 
 | nom.  | name  |

@@ -23,4 +23,18 @@
 | 17 |class binding usage |
 | 18 | class binding with array|
 | 19| style Binding|
+| 20| text directive|
+| 21| v-if|
+| 22||
+| 23||
+| 24||
+| 25||
+| 26||
+| 27||
+| 28||
+| 29||
+| 30||
+
+
+
 

@@ -49,7 +49,7 @@
 | 35| Template Parsing Caveats in Components|
 | 36| Create Component Props|
 | 37| Props Validation|
-| 38||
+| 38| pass objects to props|
 | 39||
 | 40||
 

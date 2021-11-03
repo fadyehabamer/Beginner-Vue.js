@@ -45,7 +45,7 @@
 | 31| v-for Range|
 | 32| TODO APP|
 | 33| Components|
-| 34||
+| 34| Components Notes|
 | 35||
 | 36||
 | 37||

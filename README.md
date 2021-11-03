@@ -51,7 +51,7 @@
 | 37| Props Validation|
 | 38| pass objects to props|
 | 39| Composing Components|
-| 40||
+| 40| One way data flow|
 
 
 

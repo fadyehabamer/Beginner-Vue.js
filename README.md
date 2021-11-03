@@ -43,7 +43,7 @@
 | 29| v-for key|
 | 30| filtering using v-for|
 | 31| v-for Range|
-| 32||
+| 32| TODO APP|
 | 33||
 | 34||
 | 35||

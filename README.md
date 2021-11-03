@@ -44,7 +44,7 @@
 | 30| filtering using v-for|
 | 31| v-for Range|
 | 32| TODO APP|
-| 33||
+| 33| Components|
 | 34||
 | 35||
 | 36||

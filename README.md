@@ -47,7 +47,7 @@
 | 33| Components|
 | 34| Components Notes|
 | 35| Template Parsing Caveats in Components|
-| 36||
+| 36| Create Component Props|
 | 37||
 | 38||
 | 39||

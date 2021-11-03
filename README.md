@@ -40,18 +40,18 @@
 | 26| v-for with  objects|
 | 27| nested loops|
 | 28| v-for&vue.set|
-| 29|  v-for key|
+| 29| v-for key|
 | 30| filtering using v-for|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+| 31||
+| 32||
+| 33||
+| 34||
+| 35||
+| 36||
+| 37||
+| 38||
+| 39||
+| 40||
 
 
 

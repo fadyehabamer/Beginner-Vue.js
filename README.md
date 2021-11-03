@@ -46,7 +46,7 @@
 | 32| TODO APP|
 | 33| Components|
 | 34| Components Notes|
-| 35||
+| 35| Template Parsing Caveats in Components|
 | 36||
 | 37||
 | 38||

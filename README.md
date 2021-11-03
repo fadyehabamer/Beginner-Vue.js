@@ -42,7 +42,7 @@
 | 28| v-for&vue.set|
 | 29| v-for key|
 | 30| filtering using v-for|
-| 31||
+| 31| v-for Range|
 | 32||
 | 33||
 | 34||

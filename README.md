@@ -3,6 +3,6 @@
 </p>
   
 <h1 align="center"> Vue.js </h1>
-<h3 align="center"> Detailed code for using Vue.js "without CLI" </h3>
+<h3 align="center"> Detailed code for using Vue.js </h3>
 
 <hr>
